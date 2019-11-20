@@ -1,0 +1,16 @@
+{
+  "name": "introduction_composition-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/pikax/talks",
+  "author": {
+    "name": "Carlos Rodrigues",
+    "email": "carlos@hypermob.co.uk"
+  },
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@vue/composition-api": "^0.3.2",
+    "vue": "^2.6.10"
+  }
+}
