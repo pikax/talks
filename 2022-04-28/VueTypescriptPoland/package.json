@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.29.2",
+    "@slidev/theme-default": "*",
+    "@slidev/theme-seriph": "*",
+    "slidev-theme-vuetiful": "^0.1.0"
+  },
+  "name": "vuetypescriptpoland",
+  "devDependencies": {
+    "playwright-chromium": "^1.21.0"
+  }
+}
